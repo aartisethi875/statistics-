@@ -1,7 +1,7 @@
-# statistics Tasks
+# Statistics Tasks
 
-Welcome to the Statistics repository! This repository contains various statistical concepts, formulas, and their implementation using Python. The notebooks and examples provided in this repository were created as part of the CampusX .
-
+Welcome to the Statistics repository! This repository contains various statistical concepts, formulas, and their implementation using Python.
+The notebooks and examples provided in this repository were created as part of the CampusX .
 
 
 ## Installation
@@ -10,7 +10,6 @@ You can download Python from the official website https://www.python.org/downloa
 You also need to install Jupyter Notebook to run the notebooks.
 You can install Jupyter Notebook using pip. Open your terminal and run the following command:
 pip install jupyter notebook
-
 
 
 ## Contributing
